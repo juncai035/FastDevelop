@@ -1,4 +1,4 @@
-package com.cjc035.customutil.activitycontrol;
+package com.cjc035.androidfastdevelop.util.activitycontrol;
 
 import android.app.Activity;
 

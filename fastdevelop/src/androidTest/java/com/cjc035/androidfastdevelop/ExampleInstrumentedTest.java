@@ -1,4 +1,4 @@
-package com.cjc035.customutil;
+package com.cjc035.androidfastdevelop;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

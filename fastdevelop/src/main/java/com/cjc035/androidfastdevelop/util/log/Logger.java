@@ -1,9 +1,9 @@
-package com.cjc035.customutil.log;
+package com.cjc035.androidfastdevelop.util.log;
 
 import android.text.TextUtils;
 import android.util.Log;
 
-import com.cjc035.customutil.BuildConfig;
+import com.cjc035.androidfastdevelop.BuildConfig;
 
 /**
  * @Creator juncai

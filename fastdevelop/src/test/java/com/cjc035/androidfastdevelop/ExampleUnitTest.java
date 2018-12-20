@@ -1,4 +1,4 @@
-package com.cjc035.customutil;
+package com.cjc035.androidfastdevelop;
 
 import org.junit.Test;
 
