@@ -11,7 +11,9 @@ import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 
+import com.cjc035.androidfastdevelop.R;
 import com.cjc035.androidfastdevelop.util.activitycontrol.ActivityController;
+import com.cjc035.androidfastdevelop.util.view.ViewUtil;
 
 /**
  * @Creator juncai
@@ -38,6 +40,7 @@ public class BaseActivity extends AppCompatActivity {
     @Override
     protected void onStart() {
         super.onStart();
+        ViewUtil.setColor(this, R.color.colorPrimaryDark);
     }
 
     @Override
